@@ -1,2 +1,3 @@
 # Hello-World
-2nd repository
+
+Learning to code, thanks GitHub!
